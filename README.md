@@ -1,4 +1,4 @@
 # zaverstai
-Сайт, созданный на марафоне «Заверстаю 5.0» HTML-academy.
+Сайт, созданный на марафоне HTML-academy «Заверстаю 5.0».
 
-[https://headgie.github.io/zaverstai/](Сайт на хостинге Github)
+https://headgie.github.io/zaverstai/
